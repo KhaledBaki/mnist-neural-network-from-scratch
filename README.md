@@ -1,11 +1,8 @@
 # MNIST Neural Network From Scratch
 
 # Sentiment of this Project:
-- This project follows a tutorial I found on the internet specifically from "Samson Zhang" in YouTube and his video on Neural Networks.
 - With the growth of AI, I wanted to learn how the basic building blocks of it worked, starting with neural networks.
 - I spent an entire week reviewing linear algebra as well as watching a large sum of tutorials, and lectures online regarding how such networks function.
-
-
 - This project was created to better understand the core foundations behind neural networks and modern AI systems. This program was developed from scratch and every major function was implemented manually.
 
 These functions are:
